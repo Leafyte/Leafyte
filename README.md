@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Karthik M
 
-<!--
-**Leafyte/Leafyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering (CSE) undergraduate with a strong interest in
+software development, embedded systems, and artificial intelligence.
 
-Here are some ideas to get you started:
+I enjoy building practical projects that combine programming with real-world problem
+solving — from web applications to Arduino-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Currently learning:
+- Python, Java, and Web Development
+- Embedded Systems using Arduino
+- Basics of Machine Learning and Computer Vision
+- Linux, Git, and developer tools
+
+🔹 Interests:
+- Full Stack Web Development
+- Embedded Systems & Microcontrollers
+- Artificial Intelligence & Robotics
+- Open-source and continuous learning
+
+🔹 Goals:
+- Build impactful projects during my engineering journey
+- Strengthen core CS fundamentals
+- Work towards advanced AI/robotics systems in the future
+
+I believe in learning by building, experimenting, and improving every day.

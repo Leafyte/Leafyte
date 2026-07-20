@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f1c,100:00d4ff&height=170&section=header&text=KARTHIK.exe&fontSize=50&fontColor=00eaff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/leafyte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00EAFF&center=true&vCenter=true&width=560&lines=%3E+CS+student+%40+VVCE;%3E+building+under+DebugLeaf;%3E+edge+AI+%2F+TinyML+research;%3E+status%3A+online_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00EAFF&center=true&vCenter=true&width=560&lines=%3E+CS+student+%40+VVCE;%3E+building+under+DebugLeaf;%3E+edge+AI+%2F+TinyML+research;%3E+status%3A+online_" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 <div align="center">
 
 <details open>
-<summary><b>🗂️ &nbsp;About Me</b></summary>
+<summary><b>🗂️ &nbsp;𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b></summary>
 <br/>
 
 CS Engineering student at **VVCE, Mysuru**, building under **DebugLeaf**. Focused on Edge AI, TinyML, full-stack AI systems, and computer vision. Currently researching offline conversational AI for resource-constrained devices. Open to SWE / AI-ML / Backend / Research internships.
@@ -33,7 +33,7 @@ CS Engineering student at **VVCE, Mysuru**, building under **DebugLeaf**. Focuse
 </details>
 
 <details>
-<summary><b>🚀 &nbsp;Featured Projects</b></summary>
+<summary><b>🚀 &nbsp;𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</b></summary>
 <br/>
 
 **PRISM** — offline conversational AI on a Raspberry Pi 4B, subject of an accepted ICIDTSM 2026 paper
@@ -48,7 +48,7 @@ CS Engineering student at **VVCE, Mysuru**, building under **DebugLeaf**. Focuse
 </details>
 
 <details>
-<summary><b>🔬 &nbsp;Research &amp; Publications</b></summary>
+<summary><b>🔬 &nbsp;𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑 & 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜</b></summary>
 <br/>
 
 📄 **A Hybrid Contextual Reasoning Architecture for Fully Offline Conversational AI on Resource-Constrained Edge Devices** — extended abstract on **PRISM**, accepted at **ICIDTSM 2026, IIT Madras**
@@ -60,7 +60,7 @@ Co-authors: Kiran A V, Om M Doddamani, Kishor A V, Jeevan Nullipady Mallya, A B 
 </details>
 
 <details>
-<summary><b>📚 &nbsp;Learning Journey</b></summary>
+<summary><b>📚 &nbsp;𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙹𝚘𝚞𝚛𝚗𝚎𝚢</b></summary>
 <br/>
 
 ☕ **Java** — OOP fundamentals via projects like a Java Airline Reservation System & Smart Delivery Route Optimizer
@@ -72,7 +72,7 @@ Co-authors: Kiran A V, Om M Doddamani, Kishor A V, Jeevan Nullipady Mallya, A B 
 </details>
 
 <details>
-<summary><b>🏆 &nbsp;Achievements</b></summary>
+<summary><b>🏆 &nbsp;𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜</b></summary>
 <br/>
 
 - Extended abstract on **PRISM** accepted at **ICIDTSM 2026**, IIT Madras
@@ -83,7 +83,7 @@ Co-authors: Kiran A V, Om M Doddamani, Kishor A V, Jeevan Nullipady Mallya, A B 
 </details>
 
 <details>
-<summary><b>📊 &nbsp;GitHub Statistics</b></summary>
+<summary><b>📊 &nbsp;𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b></summary>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=leafyte&show_icons=true&theme=react&bg_color=000000&title_color=00eaff&icon_color=00eaff&text_color=c9d1d9&border_color=0a0f1c" height="165"/>
@@ -129,7 +129,7 @@ jobs:
 </details>
 
 <details>
-<summary><b>📡 &nbsp;Contact</b></summary>
+<summary><b>📡 &nbsp;𝙲𝚘𝚗𝚝𝚊𝚌𝚝</b></summary>
 <br/>
 
 <a href="mailto:karthikm12790@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00eaff"/></a>
